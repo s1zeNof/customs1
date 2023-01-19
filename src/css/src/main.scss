@@ -1,0 +1,17 @@
+@import "components/_fonts.scss";
+
+/*sections*/
+@import "components/_header.scss";
+
+@import "components/hero.scss";
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0 auto;
+
+    font-family: 'Poppins';
+    text-decoration: none;
+    list-style: none;
+}
+
